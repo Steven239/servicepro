@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/servicepro/static/css/main.aa9e0970.css",
+    "main.js": "/servicepro/static/js/main.505b50f1.js",
+    "static/js/787.d02cd6a2.chunk.js": "/servicepro/static/js/787.d02cd6a2.chunk.js",
+    "static/media/Placeholder-template.jpeg": "/servicepro/static/media/Placeholder-template.8538acd6ca5032d7f54b.jpeg",
+    "index.html": "/servicepro/index.html",
+    "main.aa9e0970.css.map": "/servicepro/static/css/main.aa9e0970.css.map",
+    "main.505b50f1.js.map": "/servicepro/static/js/main.505b50f1.js.map",
+    "787.d02cd6a2.chunk.js.map": "/servicepro/static/js/787.d02cd6a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa9e0970.css",
+    "static/js/main.505b50f1.js"
+  ]
+}
